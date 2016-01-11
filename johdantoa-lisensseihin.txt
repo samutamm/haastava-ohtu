@@ -1,0 +1,16 @@
+
+
+Copyleft: 
+When using open source code in your program that is licensied with copyleft-lisence, you should use the same lisence in your program.
+
+Public domain:
+Works that are not protected by copyright(never or not any more) are in the public domain.
+
+Contributor agreement:
+Open source projects have contributors that allow the project to distribute the contributions according the contributor agreement.
+
+Permissive open source lisence:
+Opposite of copyleft-lisence: the lisence can be changed in further programs that uses permissive lisence.
+
+
+When the most suitable lisence for the project is found, applying it depends on the lisence itself.
