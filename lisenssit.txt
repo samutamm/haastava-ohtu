@@ -1,0 +1,2 @@
+
+TMC-Netbeans is lisencied under GLP-lisence. Eclipse lisence is copyleft; it does not allow anyone to take source code lisencied under Eclipse/ELP and use it under other lisence. Therefore Eclipse/ELP lisencied code cannot be used in TMC-Netbeans.
