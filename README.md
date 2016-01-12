@@ -5,7 +5,14 @@
 ## ohtuv
 
 Run
+```
 node install
 node index.js
+```
 
 More in link bellow.
+
+
+## Tehtävä 8
+Toteutus löytyy reposta
+https://github.com/samutamm/Newsreader
