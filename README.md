@@ -16,3 +16,7 @@ More in link bellow.
 ## Tehtävä 8
 Toteutus löytyy reposta
 https://github.com/samutamm/Newsreader
+
+## Tehtävät 9, 10, 11
+Toteutus repossa 
+https://github.com/samutamm/hello-maven
